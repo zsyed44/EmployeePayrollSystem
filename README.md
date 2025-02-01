@@ -5,7 +5,7 @@ This application will be used by a local resteraunt to track employee hours and 
 
 
 Tech Stack:
-Flutter
-Node.js
-Express
-MongoDB
+- Flutter
+- Node.js
+- Express
+- MongoDB
